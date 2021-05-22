@@ -1,21 +1,21 @@
 Following is the checklist of topics/algorithms to complete:
 
-[ ] Depth First Search
+- Depth First Search
 
-[ ] Breadth First Search
+- Breadth First Search
 
-[ ] Matching Parenthesis
+- Matching Parenthesis
 
-[ ] Use of Hash Tables
+- Use of Hash Tables
 
-[ ] Multiple Pointers Manipulation (Sliding Window)
+- Multiple Pointers Manipulation (Sliding Window)
 
-[ ] Reverse Linked List
+- Reverse Linked List
 
-[ ] Sorting Fundamentals
+- Sorting Fundamentals
 
-[ ] Recursion
+- Recursion
 
-[ ] Custom Data Structure
+- Custom Data Structure
 
-[ ] Binary Search
+- Binary Search
