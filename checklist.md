@@ -1,21 +1,21 @@
 Following is the checklist of topics/algorithms to complete:
 
-- Depth First Search - [Explanation Video](https://howcode.org/t/new-video-depth-first-search-explained-with-python/59)
+- [ ] Depth First Search - [Explanation Video](https://howcode.org/t/new-video-depth-first-search-explained-with-python/59)
 
-- Breadth First Search - [Explanation Video](https://howcode.org/t/new-video-bfs-in-python/70)
+- [ ] Breadth First Search - [Explanation Video](https://howcode.org/t/new-video-bfs-in-python/70)
 
-- Matching Parenthesis
+- [ ] Matching Parenthesis
 
-- Use of Hash Tables
+- [ ] Use of Hash Tables
 
-- Multiple Pointers Manipulation (Sliding Window)
+- [ ] Multiple Pointers Manipulation (Sliding Window)
 
-- Reverse Linked List
+- [ ] Reverse Linked List
 
-- Sorting Fundamentals
+- [ ] Sorting Fundamentals
 
-- Recursion
+- [ ] Recursion
 
-- Custom Data Structure
+- [ ] Custom Data Structure
 
-- Binary Search
+- [ ] Binary Search
