@@ -8,7 +8,7 @@ Following is the checklist of topics/algorithms to complete:
 
 - [ ] Use of Hash Tables
 
-- [ ] Multiple Pointers Manipulation (Sliding Window)
+- [ ] Multiple Pointers Manipulation (Sliding Window) - [Sliding Window Explanation Video](https://www.youtube.com/watch?v=MK-NZ4hN7rs)
 
 - [ ] Reverse Linked List
 
