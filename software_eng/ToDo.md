@@ -1,0 +1,5 @@
+- Go through previous projects for finding details about software engineering practices being followed --> Saturday
+- Go through previous projects for Software design questions (how many users, requests per second etc scaling) --> Saturday
+- Review Data Structures in Python --> Friday
+- Practice top 10 coding questions --> Sunday +++ Anything else
+- Important database concepts (SQL vs NoSQL + Where to use which) --> Thursday 
