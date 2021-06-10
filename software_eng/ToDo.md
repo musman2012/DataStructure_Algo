@@ -2,4 +2,4 @@
 - Go through previous projects for Software design questions (how many users, requests per second etc scaling) --> Saturday
 - Review Data Structures in Python --> Friday
 - Practice top 10 coding questions --> Sunday +++ Anything else
-- Important database concepts (SQL vs NoSQL + Where to use which) --> Thursday 
+- ~~Important database concepts (SQL vs NoSQL + Where to use which) --> Thursday~~ 
