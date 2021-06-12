@@ -22,3 +22,5 @@ class Solution:
             water += min(right_max[i], left_max[i]) - height[i]
             
         return water
+    
+## https://www.educative.io/edpresso/the-trapping-rainwater-algorithm-in-cpp-python-and-java
