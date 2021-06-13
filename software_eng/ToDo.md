@@ -2,12 +2,13 @@
 - ~~Go through previous projects for Software design questions (how many users, requests per second etc scaling) --> Saturday~~
 - ~~Review Data Structures in Python --> Friday~~
 - Practice top 10 coding questions --> Sunday +++ Anything else
-- - Trapping rainwater
-- - Power of 10 
-- - Write a function that adds two fractions together and returns the answer in its reduce form
+- ~~- Trapping rainwater
+- ~~- Power of 10 
+- ~~- Write a function that adds two fractions together and returns the answer in its reduce form
 - ~~Important database concepts (SQL vs NoSQL + Where to use which) --> Thursday~~ 
 
 SDLC --> Agile Questions
+Revise everything
 
 -------------------------------------
 ## Software Design Preparations
